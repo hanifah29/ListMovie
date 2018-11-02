@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daftar Film</string>
+    <string name="hint_search_text">pencarian</string>
+    <string name="title_refresh_menu">Segarkan</string>
+
+    <string name="label_release_date">Tanggal Rilis</string>
+    <string name="label_vote">Voting rata-rata:</string>
+    <string name="label_genres">Jenis Film</string>
+    <string name="label_overview">Sinopsis</string>
+    <string name="label_production_details">Detail Produksi</string>
+    <string name="label_belongs">Jadikan Koleksi</string>
+    <string name="label_budget">Biaya</string>
+    <string name="label_revenue">Pendapatan</string>
+    <string name="label_companies">Perusahaan</string>
+    <string name="label_countries">Negara</string>
+</resources>
